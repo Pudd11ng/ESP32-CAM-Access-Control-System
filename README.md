@@ -33,15 +33,11 @@
 - **Breadboard or PCB**
 - **3.3V/5V Relay Module**
 
-### 📷 Hardware Setup Reference
-![Hardware Setup Guide](setup.png)
-*Complete hardware setup showing ESP32-CAM, relay module, and connections*
-
 ## 📋 Prerequisites
 
 ### Software Requirements
 - **Arduino IDE** (v1.8.x or v2.x)
-- **ESP32 Arduino Core v1.0.6** (⚠️ **Important**: v2.x doesn't support face recognition)
+- **ESP32 Arduino Core v1.0.6** (⚠️ **Important**: v2.x doesn't support)
 - **ArduinoWebsockets Library** (v0.5.4+)
 
 ### Library Installation
@@ -245,25 +241,7 @@ IntelliKey-ESP32CAM-AccessControl/
 - **Regular face data backups** recommended
 - **Physical security** of the ESP32-CAM device
 
-## 🤝 Contributing
-
-This project was created for the **IntelliKey AI Hackathon**. Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly  
-5. Submit a pull request
-
-## 🏆 IntelliKey AI Hackathon
-
-This project was developed for the IntelliKey AI Hackathon, showcasing the power of embedded AI for practical access control applications.
-
-**Team**: [Your Team Name]  
-**Hackathon**: IntelliKey AI Challenge 2025  
-**Category**: Embedded AI Solutions
-
-📄 **For detailed project documentation, technical specifications, and hackathon presentation, please refer to:** `IntelliKey AI Hackathon.pdf`
+📄 **For detailed project documentation, please refer to:** `IntelliKey AI Hackathon.pdf`
 
 ## 📞 Support
 
