@@ -241,8 +241,6 @@ IntelliKey-ESP32CAM-AccessControl/
 - **Regular face data backups** recommended
 - **Physical security** of the ESP32-CAM device
 
-📄 **For detailed project documentation, please refer to:** `IntelliKey AI Hackathon.pdf`
-
 ## 📞 Support
 
 For questions or issues:
@@ -258,4 +256,4 @@ For questions or issues:
 - Ensure adequate lighting for optimal face detection
 - Test thoroughly before production deployment
 
-**🚀 Ready to deploy your IntelliKey system? Follow the setup guide above!**
+📄 **For detailed project documentation, please refer to:** `IntelliKey AI Hackathon.pdf`
